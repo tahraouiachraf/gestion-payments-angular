@@ -1,0 +1,14 @@
+.table {
+    border: solid 1px black;
+    padding: 10px;
+}
+
+.table td {
+    border: solid 1px black;
+    padding: 10px;
+}
+
+.student-card {
+    display: inline-block;
+    width: 800px;
+}
